@@ -1,2 +1,5 @@
 #!/bin/sh
-git push /media/ubuntu/TEMP/counselors master
+cd /media/ubuntu/TEMP/counselors
+git pull ~/catkin_ws/src/counselors master
+cd - 
+
