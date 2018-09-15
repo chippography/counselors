@@ -1,2 +1,2 @@
 #!/bin/sh
-git push /media/TEMP/counselors master
+git push /media/ubuntu/TEMP/counselors master
